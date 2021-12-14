@@ -20,6 +20,8 @@ Coming Soon
 
 ### Analysis Reproducibility
 
+You can access our analysis scripts from the `analysis-scripts` folder.
+
 #### Requirements
 The analyses were performed using `jupyter` notebooks on `Python 3`.
 Required Python dependencies are listed as follows.
