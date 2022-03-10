@@ -16,7 +16,9 @@ Coming Soon
 
 ### Tests
 
-Coming Soon
+We have made our test repositories used for the measurements public. Here are links to the repositories
+QUIC tests: https://github.com/RohitPanda/Quic-Test
+CPU Utilization: https://github.com/RohitPanda/CPU_utilization
 
 ### Analysis Reproducibility
 
